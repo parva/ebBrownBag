@@ -1,5 +1,0 @@
-[global]
-ApplicationName=brownbag1
-DevToolsEndpoint=git.elasticbeanstalk.us-west-2.amazonaws.com
-EnvironmentName=brownbag1-env
-Region=us-west-2
